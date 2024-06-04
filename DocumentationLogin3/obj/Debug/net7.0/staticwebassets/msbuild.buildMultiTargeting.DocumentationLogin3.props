@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DocumentationLogin3.props" />
+</Project>

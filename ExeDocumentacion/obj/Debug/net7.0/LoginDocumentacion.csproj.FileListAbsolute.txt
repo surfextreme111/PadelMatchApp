@@ -1,0 +1,14 @@
+C:\Users\Andreu\source\repos\LoginDocumentacion\bin\Debug\net7.0\LoginDocumentacion.exe
+C:\Users\Andreu\source\repos\LoginDocumentacion\bin\Debug\net7.0\LoginDocumentacion.deps.json
+C:\Users\Andreu\source\repos\LoginDocumentacion\bin\Debug\net7.0\LoginDocumentacion.runtimeconfig.json
+C:\Users\Andreu\source\repos\LoginDocumentacion\bin\Debug\net7.0\LoginDocumentacion.dll
+C:\Users\Andreu\source\repos\LoginDocumentacion\bin\Debug\net7.0\LoginDocumentacion.pdb
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\LoginDocumentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\LoginDocumentacion.AssemblyInfoInputs.cache
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\LoginDocumentacion.AssemblyInfo.cs
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\LoginDocumentacion.csproj.CoreCompileInputs.cache
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\LoginDocumentacion.dll
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\refint\LoginDocumentacion.dll
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\LoginDocumentacion.pdb
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\LoginDocumentacion.genruntimeconfig.cache
+C:\Users\Andreu\source\repos\LoginDocumentacion\obj\Debug\net7.0\ref\LoginDocumentacion.dll

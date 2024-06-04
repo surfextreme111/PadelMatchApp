@@ -1,0 +1,15 @@
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.exe
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.deps.json
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.runtimeconfig.json
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.pdb
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

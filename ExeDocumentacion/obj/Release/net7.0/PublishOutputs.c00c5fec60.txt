@@ -1,0 +1,5 @@
+C:\Users\Andreu\source\repos\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.exe
+C:\Users\Andreu\source\repos\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.dll
+C:\Users\Andreu\source\repos\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.deps.json
+C:\Users\Andreu\source\repos\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.runtimeconfig.json
+C:\Users\Andreu\source\repos\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.pdb

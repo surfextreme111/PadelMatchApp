@@ -1,0 +1,95 @@
+site_name: PadelMatch Docs
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: images/favicon.jpg
+  language: es
+  icon:
+    logo: fontawesome/solid/book
+  features:
+    - navigation.path
+    - navigation.expand
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: teal
+      accent: purple
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: teal
+      accent: lime
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Spanish
+      link: /es/
+      lang: es
+  generator: false
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/ieslavereda-projects/23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/PadelMatch
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/andreu-bustos-a55238278/
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - footnotes
+  - pymdownx.mark
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - toc:
+      permalink: true
+
+nav:
+  - BIENVENIDO:
+    - 'Bienvenido': es/index.md
+  - API CLUB:
+    - 'Api Club':  es/APIS/APIPadelMatch.md
+
+
+copyright:  |
+  &copy; 2023 <a href="https://github.com/ieslavereda-projects/23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL" target="_blank" rel="noopener">Developer PadelMatch</a>

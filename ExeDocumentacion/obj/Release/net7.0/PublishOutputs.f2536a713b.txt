@@ -1,0 +1,5 @@
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.exe
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.dll
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.deps.json
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.runtimeconfig.json
+C:\githubtfg\23_24_DAM_ANDREU_BUSTOS_AZNAR_PISTAS_PADEL\ExeDocumentacion\bin\Release\net7.0\publish\ExeDocumentacion.pdb

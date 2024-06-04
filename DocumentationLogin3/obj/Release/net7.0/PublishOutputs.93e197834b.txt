@@ -1,0 +1,16 @@
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.exe
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.deps.json
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.runtimeconfig.json
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\DocumentationLogin3.pdb
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Npgsql.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Andreu\source\repos\DocumentationLogin3\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
